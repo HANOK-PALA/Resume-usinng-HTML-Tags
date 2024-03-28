@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Bio Data form</title>
+<style>
+body{
+    background-color:rgb(216, 179, 99);
+}
+table, tr, th, td {
+border:1px solid rgb(207, 19, 50);
+text-align: center;}
+</style>
+</head>
+
+<body>
+    <h1 align="center"><u>Pala Hanok</u></h1>
+    <h3 align="center">Email ID: palahanok@gmail.com</h3> 
+    <h3 align="center">Ph. 9652274731</h3>
+    <h2><u>Academic Profile:</u></h2>
+    <table style="width:60%">
+    <tr>
+    <th>Qualification</th>
+    <th>University</th>
+    <th>Grade</th>
+    <th>Year of Pass</th>
+    </tr>
+    <tr>
+        <td>MCA</td>
+        <td>JNTUA</td>
+        <td>FIRST</td>
+        <td>2014</td>
+    </tr>
+    <tr>
+        <td>B. Sc</td>
+        <td>SVU</td>
+        <td>FIRST</td>
+        <td>2011</td>
+    </tr>
+    <tr>
+        <td>12TH</td>
+        <td>AP State</td>
+        <td>FIRST</td>
+        <td>2008</td>
+    </tr>
+    <tr>
+        <td>10TH</td>
+        <td>AP State</td>
+        <td>FIRST</td>
+        <td>2006</td>
+    </tr>
+    </table>
+
+    <h2><u>Professional Experience:</u></h2>
+    <table style=width:60%>
+    <tr>
+        <th>S NO</th>
+        <th>Designtaion</th>
+        <th>Organization/Company</th>
+        <th>From - To</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Assistant Professor</td>
+        <td>MITS Madanapalle</td>
+        <td>2015 - till date</td>
+    </tr>
+    </table>
+    <h2><u>Technical Skills</u></h2>
+    <ul>
+    <li>C, C++</li>
+    <li>Python</li>
+    <li>Java</li>
+    </ul>
+    <h2><u>Web Technologies Learnt:</u></h2>
+    <ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Java Script</li>
+    <li>React JS</li>
+    <li>Java Programming</li>
+    </ol>
+    <h2><u>Declaration</u></h2>
+    <input type="checkbox" id="check" name="check">
+    <label for ="Check" ID="check" name="check">It is hereby declare that all the details given above are true</label>
+    <p>Date: 28-03-2024</p>
+    <p>Place: Madanapalle </p>
+    <h2 align = "center">Pala Hanok</h2>
+</body>
+</html>
